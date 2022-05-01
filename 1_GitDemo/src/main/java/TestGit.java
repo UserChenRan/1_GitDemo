@@ -8,9 +8,9 @@
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("hello Git Git 2222");
+        System.out.println("hello Git Git");
+        System.out.println("hello Git Git");
         System.out.println("hello Git Git master");
         System.out.println("hello Git Git second master");
-        System.out.println("hello Git Git");
-        System.out.println("hello Git Git");
     }
 }
